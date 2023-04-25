@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "HHouse.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/HHouse.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HHouse.Data.dll": {}
+        }
+      },
+      "HHouse.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "HHouse.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HHouse.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HHouse.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HHouse.Data/1.0.0": {
+      "type": "project",
+      "path": "../HHouse.Data/HHouse.Data.csproj",
+      "msbuildProject": "../HHouse.Data/HHouse.Data.csproj"
+    },
+    "HHouse.Repository/1.0.0": {
+      "type": "project",
+      "path": "../HHouse.Repository/HHouse.Repository.csproj",
+      "msbuildProject": "../HHouse.Repository/HHouse.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "HHouse.Data >= 1.0.0",
+      "HHouse.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Tinka\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.ui\\HHouse.UI.csproj",
+      "projectName": "HHouse.UI",
+      "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.ui\\HHouse.UI.csproj",
+      "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
+      "outputPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.ui\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Tinka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.Data\\HHouse.Data.csproj": {
+              "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.Data\\HHouse.Data.csproj"
+            },
+            "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.Repository\\HHouse.Repository.csproj": {
+              "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.Repository\\HHouse.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

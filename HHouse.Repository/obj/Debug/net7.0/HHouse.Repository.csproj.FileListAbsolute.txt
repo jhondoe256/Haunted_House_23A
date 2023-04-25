@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\bin\Debug\net7.0\HHouse.Repository.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\bin\Debug\net7.0\HHouse.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\bin\Debug\net7.0\HHouse.Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\bin\Debug\net7.0\HHouse.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\bin\Debug\net7.0\HHouse.Data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.csproj.CopyComplete
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\refint\HHouse.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\HHouse.Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\A_HauntedHouse\HHouse.Repository\obj\Debug\net7.0\ref\HHouse.Repository.dll

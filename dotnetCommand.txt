@@ -1,0 +1,7 @@
+class-lib: dotnet new classlib -o "NAME_OF_DataLayer_Or_Repository"
+
+Console App: dotnet new console -o "NAME_OF_USERiNTERFACE"
+
+Solution: dotnet new sln -n "NAME_OF_SOLUTION"
+
+Dotnet build: dotnet build

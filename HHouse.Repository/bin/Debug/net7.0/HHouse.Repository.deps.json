@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HHouse.Repository/1.0.0": {
+        "dependencies": {
+          "HHouse.Data": "1.0.0"
+        },
+        "runtime": {
+          "HHouse.Repository.dll": {}
+        }
+      },
+      "HHouse.Data/1.0.0": {
+        "runtime": {
+          "HHouse.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HHouse.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HHouse.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
