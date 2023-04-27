@@ -1,6 +1,7 @@
 
 public class Floor
 {
+    //unique Identifier
     public int ID { get; set; }
     public string Name { get; set; } = string.Empty;
 

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.ui\\HHouse.UI.csproj": {}
+    "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.UI\\HHouse.UI.csproj": {}
   },
   "projects": {
     "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.Data\\HHouse.Data.csproj": {
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.ui\\HHouse.UI.csproj": {
+    "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.UI\\HHouse.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.ui\\HHouse.UI.csproj",
+        "projectUniqueName": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.UI\\HHouse.UI.csproj",
         "projectName": "HHouse.UI",
-        "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.ui\\HHouse.UI.csproj",
+        "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.UI\\HHouse.UI.csproj",
         "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
-        "outputPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.ui\\obj\\",
+        "outputPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\A_HauntedHouse\\HHouse.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

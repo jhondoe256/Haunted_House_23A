@@ -1,5 +1,9 @@
 public class BossRepository
 {
+    public BossRepository()
+    {
+        SeedBossData();
+    }
     private List<Boss> _hHouseBossDb = new List<Boss>();
 
     //we will auto increment the ID value, no-long working with a string (at the moment)

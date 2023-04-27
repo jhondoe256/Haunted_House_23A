@@ -1,6 +1,10 @@
 
 public class ChallengeRepository
 {
+    public ChallengeRepository()
+    {
+        SeedChallenges();
+    }
     private BossRepository _hHouseBossRepo = new BossRepository();
 
     private List<Challenge> _hHouseChallengeDb = new List<Challenge>();
